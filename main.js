@@ -114,4 +114,4 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("startBtn").addEventListener("click", () => {
     document.getElementById("startBtn").style.display = "none";
     document.getElementById("animationContainer").style.display = "block";
-    start
+    start 
